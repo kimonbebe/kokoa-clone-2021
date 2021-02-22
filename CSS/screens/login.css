@@ -1,0 +1,32 @@
+
+#login-form {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 10px;
+}
+
+#login-form input {
+	border: none;
+	border-bottom: 2px solid #8e999c;
+	/* border-color 스르륵 */
+	transition: border-color 200ms ease-in;
+	font-size: 20px;
+	/* color: #8e999c; */
+	text-align: left;
+	width: 95vw;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+	/* outline: none;					 */
+}
+
+/* ::placeholder selector로 styling */
+#login-form input::placeholder {
+	color: #8e999c;
+}
+
+#login-form input:focus {
+	border-color: var(--yellow);
+	outline: none;
+}

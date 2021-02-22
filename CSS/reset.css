@@ -1,0 +1,298 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol,
+ul {
+	list-style: none;
+}
+blockquote,
+q {
+	quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+	content: "";
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* http://meyerweb.com/eric/tools/css/reset/ v2.0 | 20110126 License: none (public domain) */
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+} /* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol,
+ul {
+	list-style: none;
+}
+blockquote,
+q {
+	quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+	content: "";
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+Eng
+
+
+
+/ * http://meyerweb.com/eric/tools/css/reset/ v2.0 | 20110126 라이선스 : 없음 (퍼블릭 도메인) * / html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, 인용구, pre, a, abbr, 약어, 주소, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, 스몰, 스트라이크, 스트롱, 서브, sup, tt, var, b, u, i, 센터, dl, dt, dd, ol, ul, li, fieldset, 양식, 레이블, 범례, 테이블, 캡션, tbody, tfoot, thead, tr, th, td, 기사, 제쳐두고, 캔버스, 세부 사항, 삽입, 그림, figcaption, 바닥 글, 머리글, hgroup, 메뉴, 탐색, 출력, 루비, 섹션, 요약, 시간, 마크, 오디오, 비디오
+{
+	여백: 0;
+	패딩: 0;
+	경계: 0;
+	글꼴크기 : 100 %;
+	글꼴: 상속;
+	수직정렬 : 기준선;
+}
+/이전 브라우저에 대한 HTML5 표시 역할 재설정 / 글,
+제쳐두고,
+세부 사항,
+figcaption,
+그림,
+바닥 글,
+머리글,
+hgroup,
+메뉴,
+탐색,
+섹션 {
+	디스플레이: 블록;
+}
+몸 {
+	줄높이 : 1;
+}
+ol,
+ul {
+	목록스타일 : 없음;
+}
+blockquote,
+q {
+	따옴표: 없음;
+}
+blockquote : before, blockquote : after, q : 이전, q : 이후 {
+	내용: ;
+	내용: 없음;
+}
+table {
+	국경붕괴 : 붕괴;
+	테두리간격 : 0;
+}

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Roboto&display=swap"
+			rel="stylesheet"
+		/>
+		<link rel="stylesheet" href="./CSS/style.css" />
+		<script
+			src="https://kit.fontawesome.com/c539d32fc7.js"
+			crossorigin="anonymous"
+		></script>
+
+		<title>Welcome to KakaoTalk</title>
+	</head>
+
+	<body>
+		<!-- status-bar -->
+		<div class="status-bar">
+			<div class="status-bar__row">
+				<span>No Service</span>
+				<i class="fas fa-wifi"></i>
+			</div>
+			<div class="status-bar__row"><span>18:43</span></div>
+			<div class="status-bar__row">
+				<i class="fas fa-lock"></i>
+				<span>20%</span>
+				<i class="fas fa-battery-quarter"></i>
+				<i class="fas fa-bolt"></i>
+			</div>
+		</div>
+
+		<!-- icons -->
+		<nav class="icons">
+			<span class="icons_friends">Friends</span>
+			<div class="icon">
+				<i class="fas fa-search"></i>
+				<i class="fas fa-music"></i>
+				<i class="fas fa-cog"></i>
+			</div>
+		</nav>
+
+		<!-- friends 1-->
+		<div class="friends">
+			<i class="fas fa-exclamation-circle"></i>
+			Friend's Names Display
+			<button class="friends-more">
+				<i class="fas fa-greater-than"></i>
+			</button>
+		</div>
+
+		<!-- friends 2 -->
+		<!-- list -->
+		<div class="friends-container">
+			<div class="friendsList">
+				<div class="friendsList_photo">
+					<img
+						src="https://i.pinimg.com/564x/fd/d2/fc/fdd2fcb3350211e86c186d8b49b943ce.jpg"
+						alt="user-photo"
+					/>
+				</div>
+				<div class="friendsList_name">Alice</div>
+			</div>
+
+			<!-- channel -->
+			<div class="channel-bar">
+				<div class="channel-bar-channel">Channel</div>
+				<div class="channel-bar-hide"><i class="fas fa-chevron-up"></i></div>
+			</div>
+			<div class="channels">
+				<div class="channel_info">
+					<img
+						src="https://t1.daumcdn.net/cfile/tistory/99F3C5395D924FAD06"
+						alt="kakako"
+					/>
+					<div class="channel_name">Channel</div>
+				</div>
+
+				<div class="channel_num">
+					2
+					<button class="channel_more">
+						<i class="fas fa-greater-than"></i>
+					</button>
+				</div>
+			</div>
+		</div>
+		<!-- low navigation -->
+		<nav class="menus">
+			<ul class="menu">
+				<li><i class="fas fa-user"></i></li>
+				<li><i class="far fa-comment"></i></li>
+				<li><i class="fas fa-search"></i></li>
+				<li><i class="fas fa-ellipsis-h"></i></li>
+			</ul>
+		</nav>
+	</body>
+</html>
